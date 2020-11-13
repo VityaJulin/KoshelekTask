@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KoshelekTask</string>
+    <string name="label_main">Main</string>
+    <string name="label_diff">Diff</string>
+
+    <string-array name="currency_array_main">
+        <item>BTC / USDT</item>
+        <item>BNB / BTC</item>
+        <item>ETH / BTC</item>
+    </string-array>
+
+    <string-array name="currency_array_diff">
+        <item>BTC / USDT</item>
+        <item>BNB / BTC</item>
+        <item>ETH / BTC</item>
+    </string-array>
+
+</resources>
